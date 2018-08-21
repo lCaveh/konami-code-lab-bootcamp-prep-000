@@ -23,7 +23,11 @@ function init() {
       }
 
       if (index === codes.length) {
+<<<<<<< HEAD
            window.alert("Hurray!");
+=======
+           alert("Hurray!");
+>>>>>>> c46acccd84e00696e2ba0d9e8cecad492b0237ee
            index = 0;
       }
   });
